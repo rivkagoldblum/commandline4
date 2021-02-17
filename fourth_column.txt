@@ -1,0 +1,9 @@
+  4. "Reporter"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    Israel (258x)
+
+Row count: 258

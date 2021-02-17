@@ -1,0 +1,8 @@
+|    1 |  58039 |  2017 | Israel | ISR | Malta            | MLT |  2931 |     20000 |
+| ---- | ------ | ----- | ------ | --- | ---------------- | --- | ----- | --------- |
+| True | 58,040 | 2,017 | Israel | ISR | China, Macao SAR | MAC | 6,104 | 1,495,000 |
+| True | 58,041 | 2,017 | Israel | ISR | Luxembourg       | LUX | 8,425 |    14,000 |
+| True | 58,042 | 2,017 | Israel | ISR | Luxembourg       | LUX | 8,471 |    52,000 |
+| True | 58,043 | 2,017 | Israel | ISR | Cyprus           | CYP | 8,473 |   123,000 |
+| True | 58,044 | 2,017 | Israel | ISR | Iceland          | ISL | 8,207 |     5,000 |
+| True | 58,045 | 2,017 | Israel | ISR | Luxembourg       | LUX | 8,423 |     3,000 |

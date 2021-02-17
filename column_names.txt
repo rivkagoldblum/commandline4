@@ -1,0 +1,9 @@
+  1: from_file
+  2: 
+  3: Year
+  4: Reporter
+  5: Reporter_ISO
+  6: Partner
+  7: Partner_ISO
+  8: Commodity_Code
+  9: Trade_Value_USD
